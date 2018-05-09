@@ -1,4 +1,4 @@
-# Project Title
+# Fortnite REST API Wrapper
 
 This is a nodejs wrapper for the https://fortnite.rest API. It's fairly simple, so feel free to make edits but make sure you give creidt.
 
